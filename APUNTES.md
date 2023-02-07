@@ -40,12 +40,12 @@ seleccionando OneToMany, ManyToOne o lo que necesitemos.
 
 Todo se hace desde el ORM de symfony doctrine.
 
-## Controladores
+## Controladores
 
 Para crear un controlador: `symfonty console make:controller`
 Se creará un controlador un template .twig el cual renderiza este controlador. 
 
-## Métodos mágicos - EntityManager
+## Métodos mágicos - EntityManager
 
 Los utilizamos para mostrar la info de la base de datos en los html.
 Están reflejados en PostController.
